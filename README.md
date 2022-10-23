@@ -1,2 +1,1 @@
-# AdafiRepo
-My Fullstack training
+# JCWeekndB1
